@@ -1,0 +1,10 @@
+Feature,Importance
+rotational_speed,0.2542368
+power_proxy,0.19919936
+tool_wear,0.17111592
+torque,0.17037943
+temp_diff,0.07013862
+air_temperature,0.037174616
+type_M,0.035440646
+type_L,0.032785736
+process_temperature,0.02952891

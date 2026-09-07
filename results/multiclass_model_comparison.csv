@@ -1,0 +1,2 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+Random Forest Multi-Class,0.9895,0.6511530129411094,0.5863310904071773,0.6084598727022538
